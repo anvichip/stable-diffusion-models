@@ -8,9 +8,9 @@ This is the reference image used in the notebook, indicated by ```init_image```
 
 
 Prompt is ```This is the image of a castle, I want the same castle in a desert```
-![Generated](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/generated.png
+![Generated](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/generated.png)
 
 Prompt is ```This is the image of a castle, I want the same castle but the colour should be black and picture should be modern```
-![Generated - 1](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/generated-1.png
+![Generated - 1](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/generated-1.png)
 
 
