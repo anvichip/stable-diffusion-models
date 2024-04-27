@@ -2,4 +2,4 @@
 
 ## img2img
 ### Generate an image using a reference image
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/4a03b886e588620dccd4bc87dc126223.jpg)
