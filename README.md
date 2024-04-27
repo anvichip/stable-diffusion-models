@@ -1,6 +1,6 @@
 # Stable Diffusion Models
 
-## img2img
+## img2img 
 ### Generate an image using a reference image
 ![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/4a03b886e588620dccd4bc87dc126223.jpg)
 
@@ -15,4 +15,5 @@ Prompt is ```This is the image of a castle, I want the same castle but the colou
 
 ![Generated - 1](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/generated-1.png)
 
+[Link for image to image](https://runwayml.com/ai-tools/image-to-image/)
 
