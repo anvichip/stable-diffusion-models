@@ -22,6 +22,6 @@ Prompt is ```This is the image of a castle, I want the same castle but the colou
 
 Prompt is ```Children playing in a park```
 
-![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/4a03b886e588620dccd4bc87dc126223.jpg)
+![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/SDXL-images/sdxl-gen1.png)
 
 
