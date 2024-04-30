@@ -17,3 +17,11 @@ Prompt is ```This is the image of a castle, I want the same castle but the colou
 
 [Link for image to image](https://runwayml.com/ai-tools/image-to-image/)
 
+## SDXL 1.0 
+### Generate an image using a text prompt
+
+Prompt is ```Children playing in a park```
+
+![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/img2img/4a03b886e588620dccd4bc87dc126223.jpg)
+
+
