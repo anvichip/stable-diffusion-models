@@ -24,4 +24,8 @@ Prompt is ```Children playing in a park```
 
 ![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/SDXL-images/sdxl-gen1.png)
 
+Prompt is ```A castle in a beach on a sunny day```
+
+![The reference Image](https://github.com/anvichip/stable-diffusion-models/blob/main/SDXL-images/sdxl-gen1.png)
+
 
